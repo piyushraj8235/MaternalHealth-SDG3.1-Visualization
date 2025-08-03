@@ -68,12 +68,10 @@ Maternal mortality remains a critical challenge for many developing countries, i
 ---
 
 ## 📂 Repository Structure
-/MaternalHealth-SDG3.1-Visualization
-│
-├── README.md # Project documentation (this file)
-├── MaternalHealthProject.ipynb # Jupyter Notebook code file
-├── MaternalHealthProject.pptx # Final PPT presentation
-└── Screenshots/ # (Optional) Screenshots of results & outputs
+- README.md — Project documentation (this file)
+- MaternalHealthProject.ipynb — Jupyter Notebook code file
+- MaternalHealthProject.pptx — Final PPT presentation
+- Screenshots/ — (Optional) Screenshots of results & outputs
 
 
 ---
