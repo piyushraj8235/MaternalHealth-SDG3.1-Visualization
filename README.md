@@ -71,7 +71,7 @@ Maternal mortality remains a critical challenge for many developing countries, i
 - README.md — Project documentation (this file)
 - MaternalHealthProject.ipynb — Jupyter Notebook code file
 - MaternalHealthProject.pptx — Final PPT presentation
-- Screenshots/ — (Optional) Screenshots of results & outputs
+- Screenshots/ — Screenshots of results & outputs
 
 
 ---
